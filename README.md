@@ -1,4 +1,4 @@
-# Excel Projects Portfolio
+# Excel Business Analytics Portfolio
 
 A collection of Excel-based projects showcasing practical applications of financial modeling, business analytics, data organization, and operational management. This repository demonstrates proficiency in advanced Excel features, analytical problem-solving, and building tools that support data-driven decision-making.
 
